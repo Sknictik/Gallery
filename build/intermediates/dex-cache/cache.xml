@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Dropbox\Projects\Android studio\Gallery\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2-69daa81354210775b393ab6f1ac9b3f0b5daa568.jar"
+        jar="C:\Dropbox\Projects\Android studio\Gallery\app\lib\universal-image-loader-1.9.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432"/>
+    <item
+        dex="C:\Dropbox\Projects\Android studio\Gallery\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2-javadoc-18f0b2d9e9af90aea6f5171c83106704a9369810.jar"
+        jar="C:\Dropbox\Projects\Android studio\Gallery\app\lib\universal-image-loader-1.9.2-javadoc.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2937b0efa8438fd4b3a24355ae8525010070a49e"/>
+
+</pre-dex-items>

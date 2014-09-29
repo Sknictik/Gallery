@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Dropbox\Projects\Android studio\Gallery\app\src\main\res" >
+            <file
+                name="error"
+                path="C:\Dropbox\Projects\Android studio\Gallery\app\src\main\res\drawable-hdpi\error.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Dropbox\Projects\Android studio\Gallery\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="loading"
+                path="C:\Dropbox\Projects\Android studio\Gallery\app\src\main\res\drawable-hdpi\loading.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Dropbox\Projects\Android studio\Gallery\app\src\main\res\drawable-ldpi\ic_launcher.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Dropbox\Projects\Android studio\Gallery\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Dropbox\Projects\Android studio\Gallery\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="gallery_fragment"
+                path="C:\Dropbox\Projects\Android studio\Gallery\app\src\main\res\layout\gallery_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="C:\Dropbox\Projects\Android studio\Gallery\app\src\main\res\layout\main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="jsondump"
+                path="C:\Dropbox\Projects\Android studio\Gallery\app\src\main\res\raw\jsondump.txt"
+                qualifiers=""
+                type="raw" />
+            <file
+                path="C:\Dropbox\Projects\Android studio\Gallery\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="image_size" >100dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Dropbox\Projects\Android studio\Gallery\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="hello_blank_fragment" >Hello blank fragment
+                </string>
+                <string name="app_name" >Gallery
+                </string>
+            </file>
+        </source>
+        <source path="C:\Dropbox\Projects\Android studio\Gallery\app\build\generated\res\rs\debug" />
+        <source path="C:\Dropbox\Projects\Android studio\Gallery\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Dropbox\Projects\Android studio\Gallery\app\src\debug\res" />
+    </dataSet>
+
+</merger>

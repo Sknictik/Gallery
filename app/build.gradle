@@ -1,0 +1,23 @@
+apply plugin: 'android'
+android {
+    compileSdkVersion 19
+    buildToolsVersion '19.1.0'
+    defaultConfig {
+        applicationId 'com.example.Gallery'
+        minSdkVersion 14
+        targetSdkVersion 19
+    }
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile files('lib/universal-image-loader-1.9.2-javadoc.jar')
+    compile files('lib/universal-image-loader-1.9.2.jar')
+}

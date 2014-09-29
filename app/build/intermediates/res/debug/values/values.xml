@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Dropbox/Projects/Android%20studio/Gallery/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="image_size">100dp</dimen>
+    <!-- From: file:/C:/Dropbox/Projects/Android%20studio/Gallery/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">Gallery</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
